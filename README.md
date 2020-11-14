@@ -1,5 +1,5 @@
 # Spinner Date Picker Demo
-This repo contains a sample app that shows how to still make use of the old fashioned Android DatePickerDialog available since API 1, even when using current Material Design Components app theme. The app offers two date pickers, the old DatePickerDialog in *Spinner mode* and the new MaterialDatePicker in *DatePicker mode*.
+This repo contains a sample app that shows how to make use of the old fashioned Android [DatePickerDialog](https://developer.android.com/reference/android/app/DatePickerDialog) available since API 1, as an alternative to the (UI/UX-wise) quite complex [MaterialDatePicker](https://material.io/components/date-pickers). The app uses the current Material Design Components app theme, to show that the dialog still fits well. The app offers both date pickers for comparison: The DatePickerDialog in *Spinner mode* and the MaterialDatePicker in *DatePicker mode*.
 
 ## Screenshots 
 
