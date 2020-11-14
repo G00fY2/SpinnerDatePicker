@@ -1,6 +1,14 @@
 # Spinner Date Picker Demo
 This repo contains a sample app that shows how to still make use of the old fashioned Android DatePickerDialog available since API 1, even when using current Material Design Components app theme. The app offers two date pickers, the old DatePickerDialog in *Spinner mode* and the new MaterialDatePicker in *DatePicker mode*.
 
+## Screenshots 
+
+[<img src="https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/001.png" width=160>](https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/001.png)
+[<img src="https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/002.png" width=160>](https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/002.png)
+[<img src="https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/003.png" width=160>](https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/003.png)
+[<img src="https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/004.png" width=160>](https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/004.png)
+[<img src="https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/005.png" width=160>](https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/005.png)
+
 ## License
      The MIT License (MIT)
 
