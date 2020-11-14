@@ -2,12 +2,14 @@
 This repo contains a sample app that shows how to make use of the old fashioned Android [DatePickerDialog](https://developer.android.com/reference/android/app/DatePickerDialog) available since API 1, as an alternative to the (UI/UX-wise) quite complex [MaterialDatePicker](https://material.io/components/date-pickers). The app uses the current Material Design Components app theme, to show that the dialog still fits well. The app offers both date pickers for comparison: The DatePickerDialog in *Spinner mode* and the MaterialDatePicker in *DatePicker mode*.
 
 ## Screenshots 
-
 [<img src="https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/001.png" width=160>](https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/001.png)
 [<img src="https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/002.png" width=160>](https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/002.png)
 [<img src="https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/003.png" width=160>](https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/003.png)
 [<img src="https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/004.png" width=160>](https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/004.png)
 [<img src="https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/005.png" width=160>](https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/005.png)
+
+## Download
+You can find an APK in the [GitHub releases](https://github.com/G00fY2/SpinnerDatePicker/releases).
 
 ## License
      The MIT License (MIT)
