@@ -8,13 +8,13 @@ This repo contains a sample app that shows how to make use of the old fashioned 
 [<img src="https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/004.png" width=160>](https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/004.png)
 [<img src="https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/005.png" width=160>](https://raw.githubusercontent.com/G00fY2/SpinnerDatePicker/gh-pages/media/005.png)
 
-## Download
+## Sample
 You can find an APK in the [GitHub releases](https://github.com/G00fY2/SpinnerDatePicker/releases).
 
 ## License
-     The MIT License (MIT)
+    The MIT License (MIT)
 
-    Copyright (C) 2020 Thomas Wirth
+    Copyright (C) 2021 Thomas Wirth
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
     associated documentation files (the "Software"), to deal in the Software without restriction,
